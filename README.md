@@ -118,7 +118,10 @@ endmodule
 ![image](https://github.com/NivethaKumar30/Exercise-09-Shift-registers-using-verilog-/assets/119559844/3d7d8602-0e6c-4496-90f4-97f31ddf3124)
 
 
-![Uploading image.png…]()
+![image](https://github.com/NivethaKumar30/Exercise-09-Shift-registers-using-verilog-/assets/119559844/4d150f77-48f5-49a3-9b86-b5b47bcdc2d7)
+
+
+![image](https://github.com/NivethaKumar30/Exercise-09-Shift-registers-using-verilog-/assets/119559844/2de17282-6ebe-4dc1-866b-79b4019a8bbd)
 
 
 ### RESULTS 
